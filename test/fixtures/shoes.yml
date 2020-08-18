@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  first_name: MyString
+  type: 
+  color: MyString
   string: MyString
-  last_name: MyString
 
 two:
-  first_name: MyString
+  type: 
+  color: MyString
   string: MyString
-  last_name: MyString
